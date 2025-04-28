@@ -17,3 +17,7 @@ see [here](https://github.com/dg-teaching/Intro2Py-Spring2025) for stuff.
 ---
 
 floof
+
+## Contributors
+
+- Hey! I am here now.
